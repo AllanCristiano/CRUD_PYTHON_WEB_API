@@ -1,1 +1,1 @@
-rota para a documentação /docs
+rota para a documentação: /docs
